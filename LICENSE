@@ -1,0 +1,18 @@
+AR GNSS Heatmap building blocks
+
+This database is made available under the Open Database License (ODbL) 1.0:
+https://opendatacommons.org/licenses/odbl/1-0/
+Any rights in individual contents of the database are licensed under the
+Database Contents License: https://opendatacommons.org/licenses/dbcl/1-0/
+
+It is derived from:
+
+- Overture Maps Foundation, "buildings" theme (https://overturemaps.org).
+  Features derived from OpenStreetMap: © OpenStreetMap contributors, ODbL 1.0.
+  Other features: Community Data License Agreement – Permissive 2.0
+  (https://cdla.dev/permissive-2-0/).
+
+- Google Open Buildings 2.5D Temporal (building heights), Creative Commons
+  Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/).
+
+Attribution to all of the above must be kept in any use or redistribution.
